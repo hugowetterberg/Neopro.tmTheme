@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Neopro Inverted</string>
+	<string>Neopro Inverted 2</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -139,7 +139,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#00FF4D</string>
+				<string>#00A934</string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,7 +206,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#00FF06</string>
+				<string>#00CC03</string>
 			</dict>
 		</dict>
 		<dict>
